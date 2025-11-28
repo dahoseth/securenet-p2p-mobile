@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "SecureNet P2P",
+    "slug": "securenet-p2p",
+    "version": "1.0.0",
+    "android": {
+      "package": "org.securenet.p2p"
+    }
+  }
+}
